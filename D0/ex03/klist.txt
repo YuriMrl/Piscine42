@@ -1,0 +1,6 @@
+Credentials cache: API:C4AF98B4-C327-4BBD-957C-083821F22C04
+        Principal: emorlier@42.FR
+
+  Issued                Expires               Principal
+Jul  4 13:38:17 2017  Jul 11 13:38:17 2017  krbtgt/42.FR@42.FR
+Jul  4 13:43:36 2017  Jul 11 13:38:17 2017  host/vgs-fn1.42.fr@42.FR
